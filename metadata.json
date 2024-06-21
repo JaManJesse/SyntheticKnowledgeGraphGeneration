@@ -1,0 +1,18 @@
+{
+    "columns": {
+        "time": {
+            "datetime_format": "%Y-%m-%d %H:%M:%S",
+            "sdtype": "datetime"
+        },
+        "co2_values": {
+            "sdtype": "numerical"
+        },
+        "temp_values": {
+            "sdtype": "numerical"
+        },
+        "humidity_values": {
+            "sdtype": "numerical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
